@@ -8,7 +8,14 @@ theme:
     - scheme: slate
       primary: blue
       accent: blue
-      
+      toggle:
+        icon: material/toggle-switch
+        name: disable dark mode
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        neme: enable dark mode
+
   features:
     - navigation.top
     - content.code.annotate
