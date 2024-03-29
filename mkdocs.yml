@@ -11,5 +11,5 @@ markdown_extensions:
       pygments_lang_class: true
       anchor_linenums: true
 
-nav:
-- index.md
+# nav:
+# - index.md
