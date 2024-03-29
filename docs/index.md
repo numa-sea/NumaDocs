@@ -4,6 +4,6 @@ numa-seaのドキュメント
 
 # 目次
 - ArduinoIDE環境でのesp32の使い方()
-    - [ArduinoIDE開発環境の構築](./esp32/lesson0.md)
-    - LEDの点滅
+    - [Lesson0 : ArduinoIDEをいれよう](./esp32/lesson0.md)
+    - [Lesson1 : LEDをチカチカさせよう](./esp32/lesson1.md)
     - PCとシリアル通信をしよう

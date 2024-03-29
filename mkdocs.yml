@@ -1,6 +1,5 @@
 site_name: numa-sea Documents
 repo_url: https://github.com/numa-sea/numadocs
-copyright: Copyright &copy; numa-sea
 
 markdown_extensions:
   - codehilite
@@ -10,6 +9,3 @@ markdown_extensions:
       auto_title: true
       pygments_lang_class: true
       anchor_linenums: true
-
-# nav:
-# - index.md
