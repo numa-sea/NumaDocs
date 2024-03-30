@@ -7,3 +7,4 @@ numa-seaのドキュメント
     - [Lesson0 : ArduinoIDEをいれよう](./esp32/lesson0.md)
     - [Lesson1 : LEDをチカチカさせよう](./esp32/lesson1.md)
     - PCとシリアル通信をしよう
+    - センサーを使おう
