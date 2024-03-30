@@ -25,3 +25,4 @@ Windows Win 10 and newer, 64 bitsをインストール
 オプションにすべてチェックを入れる  
 ↓  
 インストール先を確認してinstall
+</center>
