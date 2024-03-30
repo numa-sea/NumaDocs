@@ -8,14 +8,13 @@
 - 様々なマイコンやコンデンサーを簡単に使用できる
 
 ## 2.Arduino IDEをインストールしよう
-<center>
 https://www.arduino.cc/
 
 にアクセス  
 ↓  
 SOFTWAREのタブにいく  
 ↓  
-Windows Win 10 and newer, 64 bitsをインストール  
+Windows Win 10 and newer, 64 bitsをインストール 
 ![](/docs/esp32/img_lesson0/download.png)
 ↓  
 ずっとJUST DOWNLOADを選ぶ  
@@ -25,4 +24,3 @@ Windows Win 10 and newer, 64 bitsをインストール
 オプションにすべてチェックを入れる  
 ↓  
 インストール先を確認してinstall
-</center>
