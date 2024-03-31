@@ -9,7 +9,6 @@
 
 ## 2.Arduino IDEをインストールしよう
 https://www.arduino.cc/
-
 にアクセス  
 ↓  
 SOFTWAREのタブにいく  
