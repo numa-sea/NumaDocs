@@ -35,14 +35,14 @@ jobs:
       # まず、ビルドします。
       - run: mkdocs build
       
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.ACCESS_TOKEN }}
-          # デプロイ元リポジトリーとデプロイ先が異なる場合、
-          # external_repository を指定します。
-          external_repository: numa-sea/numadocs
-          # publish_branch を指定しない場合、
-          # gh-pages ブランチにデプロイされます。
-          # publish_branch: master
-          publish_dir: ./site
+      # - name: Deploy
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   with:
+      #     personal_token: ${{ secrets.ACCESS_TOKEN }}
+      #     # デプロイ元リポジトリーとデプロイ先が異なる場合、
+      #     # external_repository を指定します。
+      #     external_repository: numa-sea/numadocs
+      #     # publish_branch を指定しない場合、
+      #     # gh-pages ブランチにデプロイされます。
+      #     # publish_branch: master
+      #     publish_dir: ./site

@@ -14,7 +14,7 @@ https://www.arduino.cc/
 SOFTWAREのタブにいく  
 ↓  
 Windows Win 10 and newer, 64 bitsをインストール 
-![](/img_lesson0/download.png)
+<!-- ![](/img_lesson0/download.png) -->
 ↓  
 ずっとJUST DOWNLOADを選ぶ  
 ↓  
